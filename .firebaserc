@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "prueba-ec594": {
+      "hosting": {
+        "app": [
+          "prueba-ec594"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "prueba-ec594"
+  }
+}
